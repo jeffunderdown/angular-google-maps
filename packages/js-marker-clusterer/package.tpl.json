@@ -21,8 +21,8 @@
   },
   "peerDependencies": {
     "@angular/core": "^4.0.0 || ^5.0.0",
-    "@agm/core": "^1.0.0-beta.2",
-    "js-marker-clusterer": "^1.0.0"
+    "@agm/core": "file:../core",
+    "js-marker-clusterer": "https://github.com/jeffunderdown/google-map-chart-marker-clusterer/tarball/master"
   },
   "homepage": "https://github.com/SebastianM/angular-google-maps#readme"
 }
